@@ -1,0 +1,18 @@
+# OS / editor temp files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Local secrets / env
+.env
+*.local
+
+# Temp / build artifacts
+*.tmp
+*.log
+*.bak
+__pycache__/

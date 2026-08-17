@@ -55,5 +55,6 @@ description: This skill should be used when a user wants to create, write, optim
 - `references/writing-guide.md` — FAB、量化、分类强动词、前后对照范例
 - `references/ats-checklist.md` — ATS 通过率检查清单
 - `references/skill-keywords.md` — 从 JD 抽取关键词的方法 + 示例词表
-- `assets/resume-template.md` — 可直接填写的中文简历 Markdown 模板
+- `assets/resume-template.md` — 可直接填写的通用中文简历 Markdown 模板
 - `assets/cv-template.yaml` — 工程师结构化 YAML 简历模板（RenderCV 风格）
+- `assets/resume-template-party-hr.md` — 党务人事 / HR 岗位专属模板（按岗细分范例，命名约定 `resume-template-<岗位>.md`）
